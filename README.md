@@ -8,4 +8,4 @@ $ cd encrypt
 $ python2 enc.pyc
 ```
 
-# Sorry, the script still has many errors 
+# Sorry, the script still has many error
